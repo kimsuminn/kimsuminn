@@ -30,7 +30,7 @@
 	<a href="https://solved.ac/sm9906"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm9906"/></a>
 	
    <h4>📊 Top Languages</h4>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuminn&layout=compact&theme=tokyonight"><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsuminn&layout=compact&theme=white"><br>
 	
    <h2> </h2>
 	<a href="https://github.com/kimsuminn"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimsuminn&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
